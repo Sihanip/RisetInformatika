@@ -1,26 +1,10 @@
-<style>
-    * {
-        text-align: justify;
-    }
-    h2 u {
-        color: red;
-    }
-    p {
-        font-size: 18px;
-    }
-    li p {
-        font-size: 18px;
-        font-weight: bold;
-    }
-</style>
 
 <hr>
 
-Nama : Hanif Nur Fadlilah
-NPM : 20081010231
-Kelas : D081
+Nama : Hanif Nur Fadlilah <br>
+NPM : 20081010231 <br>
+Kelas : D081 <br>
 Mata Kuliah : Riset Informatika
-
 <hr>
 
 <h1>
