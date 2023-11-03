@@ -10,6 +10,9 @@
 ### Tugas 1
 Silahkan klik [Disini](./Tugas1.md) untuk membuka file Tugas 1.
 
+### Tugas 2
+Silahkan klik [Disini](./Tugas2.md) untuk membuka file Tugas 1.
+
 
 
 
