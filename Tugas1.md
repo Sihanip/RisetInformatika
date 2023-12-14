@@ -44,7 +44,7 @@ dengan pelayanan yang diberikan.</p>
 
 <ol>
     <li>
-        <h5>MERN Stack</h5>
+        <h4>MERN Stack</h4>
         <span>MERN Stack adalah sebuah teknologi stack yang digunakan untuk membangun aplikasi web berbasis JavaScript. Singkatan "MERN" sendiri merupakan akronim dari empat teknologi utama yang digunakan dalam stack ini, yaitu:</span>
         <p><strong>M</strong> untuk <strong>MongoDB</strong>: Sebuah database NoSQL yang menggunakan format data BSON (Binary JSON) dan dirancang untuk menyimpan data dalam bentuk dokumen. </p>
         <p><strong>E</strong> untuk <strong>Express.js</strong>: Sebuah framework web yang dibangun di atas Node.js untuk mengembangkan aplikasi web dan API dengan lebih mudah.</p>
@@ -52,15 +52,15 @@ dengan pelayanan yang diberikan.</p>
         <p><strong>N</strong> untuk <strong>Node.js</strong>: Sebuah runtime JavaScript yang memungkinkan pengembang untuk menjalankan JavaScript di sisi server.</p>
     </li>
     <li>
-        <h5>Quick Response Code (QR-CODE)</h5>
+        <h4>Quick Response Code (QR-CODE)</h4>
         <span>Kode QR adalah kode dua dimensi yang dapat menyimpan banyak informasi. Bidang seperti iklan, marketing, dan jejaring sosial sering menggunakan kode QR untuk mengkodekan alamat website dan nomor telepon. Untuk membukanya bisa dilakukan dengan scan  atau pemindaian menggunakan smartphone.</span>
     </li>
      <li>
-        <h5>Mobile First Design</h5>
+        <h4>Mobile First Design</h4>
         <span>Mobile First Design adalah pendekatan dalam desain website yang menempatkan perangkat mobile sebagai fokus utama. Dalam konsep ini, desainer web merancang dan mengembangkan situs web dengan mempertimbangkan kebutuhan dan keterbatasan perangkat mobile, seperti ukuran layar yang lebih kecil</span>
     </li>
     <li>
-        <h5>Responsive Web Design (RWD)</h5>
+        <h4>Responsive Web Design (RWD)</h4>
         <span>Responsive web design adalah tampilan website yang bisa menyesuaikan dengan device pengguna atau dengan berbagai ukuran layar baik mobile, tablet, dan dekstop.</span>
     </li>
 
