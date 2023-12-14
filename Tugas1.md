@@ -46,10 +46,23 @@ dengan pelayanan yang diberikan.</p>
     <li>
         <h4>MERN Stack</h4>
         <span>MERN Stack adalah sebuah teknologi stack yang digunakan untuk membangun aplikasi web berbasis JavaScript. Singkatan "MERN" sendiri merupakan akronim dari empat teknologi utama yang digunakan dalam stack ini, yaitu:</span>
-        <p><strong>M</strong> untuk <strong>MongoDB</strong>: Sebuah database NoSQL yang menggunakan format data BSON (Binary JSON) dan dirancang untuk menyimpan data dalam bentuk dokumen. </p>
-        <p><strong>E</strong> untuk <strong>Express.js</strong>: Sebuah framework web yang dibangun di atas Node.js untuk mengembangkan aplikasi web dan API dengan lebih mudah.</p>
-        <p><strong>R</strong> untuk <strong>React</strong>: Sebuah library JavaScript yang dikembangkan oleh Facebook untuk membangun antarmuka pengguna (UI) yang interaktif dan dinamis.</p>
-        <p><strong>N</strong> untuk <strong>Node.js</strong>: Sebuah runtime JavaScript yang memungkinkan pengembang untuk menjalankan JavaScript di sisi server.</p>
+        <ul>
+            <li>
+                <strong>M</strong> untuk <strong>MongoDB :</strong>
+                <br>Sebuah database NoSQL yang menggunakan format data BSON (Binary JSON) dan dirancang untuk menyimpan data dalam bentuk dokumen.
+            </li>
+            <li>
+                <strong>E</strong> untuk <strong>Express.js :</strong>
+                <br>Sebuah framework web yang dibangun di atas Node.js untuk mengembangkan aplikasi web dan API dengan lebih mudah.                               </li>
+             <li>
+                <strong>R</strong> untuk <strong>React:</strong>
+                <br>Sebuah library JavaScript yang dikembangkan oleh Facebook untuk membangun antarmuka pengguna (UI) yang interaktif dan dinamis.    
+             </li>
+            <li>
+                <strong>N</strong> untuk <strong>Node.js:</strong>
+                <br>Sebuah runtime JavaScript yang memungkinkan pengembang untuk menjalankan JavaScript di sisi server.        
+             </li>
+        </ul>
     </li>
     <li>
         <h4>Quick Response Code (QR-CODE)</h4>
@@ -63,6 +76,14 @@ dengan pelayanan yang diberikan.</p>
         <h4>Responsive Web Design (RWD)</h4>
         <span>Responsive web design adalah tampilan website yang bisa menyesuaikan dengan device pengguna atau dengan berbagai ukuran layar baik mobile, tablet, dan dekstop.</span>
     </li>
-
 </ol>
+
+## Refrensi
+[RANCANG BANGUN SISTEM INFORMASI STAYCATION BERBASIS WEB DENGAN IMPLEMENTASI TEKNOLOGI MERN STACK](https://ejournal.unesa.ac.id/index.php/jurnal-manajemen-informatika/article/view/41882)
+
+[PERANCANGAN DAN PENERAPAN IMPLEMENTASI SISTEM PEMESANAN MENU KEDAI LEMANS COFFEE BERBASIS WEBSITE DENGAN TEKNOLOGI QUICK RESPONSE CODE](https://ojs.cbn.ac.id/index.php/jukanti/article/download/575/267/2882)
+
+[PENERAPAN RESPONSIVE WEB DESIGN DALAM PERANCANGAN SISTEM MODUL ONLINE ADAPTIF](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/435)
+
+
 
