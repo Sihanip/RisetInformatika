@@ -1,5 +1,4 @@
 <h1>Pengujian Sistem</h1>
-<p>Pengujian dilakukan pada sisi client dan server</p>
 <p>Tools: Postman, Redux DevTools, Mobile View Extensions</p>
 
 <h2>Matrik Pengujian</h2>
