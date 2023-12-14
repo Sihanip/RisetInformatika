@@ -16,7 +16,7 @@
 1. Metode
    - [Purwarupa Sistem Pemesanan Menu Makanan Dan Minuman Menggunakan Qr-Code Berbasis Web](https://journal.literasisains.id/index.php/jumintal/article/download/321/172)
 2. Metodologi
-   - [Implementasi Metode FCFS( First Come First Served) Pada Aplikasi Pemesanan Makanan Menggunakan QR Code Berbasis Web service Studi Kasus : Mie Kober Jember](http://repository.unmuhjember.ac.id/2694/9/ARTIKEL%20JURNAL.pdf)
+   - [RANCANG BANGUN SISTEM INFORMASI STAYCATION BERBASIS WEB DENGAN IMPLEMENTASI TEKNOLOGI MERN STACK](https://ejournal.unesa.ac.id/index.php/jurnal-manajemen-informatika/article/view/41882)
 
 
 <h3>Implementasi Metode dan Metodologi pada Riset Penelitian</h3>
