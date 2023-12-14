@@ -7,16 +7,11 @@ Kelas : D081 <br>
 Mata Kuliah : Riset Informatika
 <hr>
 
-<h1>
-    <u>Topik: First Come First Served Aplikasi</u>
-</h1>
+<h1>Topik: Perancangan Sistem</h1>
 
-<h4>Perancangan dan Implementasi Metode FCFS (First Come First Served) Pada Sistem Pemesanan Menu Restoran Menggunakan Teknologi QR-CODE Berbasis Website</h4>
+<ins>Rancang Bangun Sistem Pemesanan Menu Restoran Menggunakan Teknologi QR-CODE Berbasis Website</ins>
 
-<h2>
-    <u>Persoalan Praktis</u>
-</h2>
-
+<h3>Persoalan Praktis</h3>
 <p>Beberapa restoran sering mengalami masalah,
 diantaranya karyawan restoran keliru dalam mengantar pesanan, karyawan
 jarang menawarkan teh ataupun kopi pada saat sarapan pagi, karyawan tidak
@@ -25,14 +20,11 @@ mendapatkan layanan dengan baik, pemesan merasa tidak nyaman dan bosan pada
 saat menuggu hidangan yang terlalu lama disajikan, pemesan merasa tidak puas
 dengan pelayanan yang diberikan.</p>
 
-<h2>
-    <u>Research Question</u>
-</h2>
-
+<h3>Research Question</h3>
 <ol>
     <li>
         <p>Antrian Online:</p>
-        <span>Bagaimana kinerja metode FCFS sistem akan menangani situasi ketika beberapa pesanan masuk secara bersamaan melalui website?</span>
+        <span>Bagaimana kinerja sistem akan menangani situasi ketika beberapa pesanan masuk secara bersamaan melalui website?</span>
     </li>
     <li>
         <p>Ketersediaan Menu:</p>
@@ -48,18 +40,20 @@ dengan pelayanan yang diberikan.</p>
     </li>
 </ol>
 
-<h2>
-    <u>Teori Terkait</u>
-</h2>
+<h3>Teori Terkait</h3>
 
 <ol>
     <li>
-        <h5>First Come First Served</h5>
-        <span>First Come First Served (FCFS) adalah sistem antrian penjadwalan yang mengutamakan proses yang pertama kali diinput akan dilayani terlebih dahulu sampai selesai. Proses tersebut diberi jarak waktu yang diurutkan berdasarkan waktu yang telah di inputkan.</span>
+        <h5>MERN Stack</h5>
+        <span>MERN Stack adalah sebuah teknologi stack yang digunakan untuk membangun aplikasi web berbasis JavaScript. Singkatan "MERN" sendiri merupakan akronim dari empat teknologi utama yang digunakan dalam stack ini, yaitu:</span>
+        <p><strong>M</strong> untuk <strong>MongoDB</strong>: Sebuah database NoSQL yang menggunakan format data BSON (Binary JSON) dan dirancang untuk menyimpan data dalam bentuk dokumen. </p>
+        <p><strong>E</strong> untuk <strong>Express.js</strong>: Sebuah framework web yang dibangun di atas Node.js untuk mengembangkan aplikasi web dan API dengan lebih mudah.</p>
+        <p><strong>R</strong> untuk <strong>React</strong>: Sebuah library JavaScript yang dikembangkan oleh Facebook untuk membangun antarmuka pengguna (UI) yang interaktif dan dinamis.</p>
+        <p><strong>N</strong> untuk <strong>Node.js</strong>: Sebuah runtime JavaScript yang memungkinkan pengembang untuk menjalankan JavaScript di sisi server.</p>
     </li>
     <li>
         <h5>Quick Response Code (QR-CODE)</h5>
-        <span>Kode QR, juga dikenal sebagai kode Respon Cepat, adalah kode dua dimensi yang dapat menyimpan banyak informasi. Bidang seperti iklan, marketing, dan jejaring sosial sering menggunakan kode QR untuk mengkodekan alamat website dan nomor telepon. Untuk membukanya bisa dilakukan dengan scan  atau pemindaian menggunakan smartphone.</span>
+        <span>Kode QR adalah kode dua dimensi yang dapat menyimpan banyak informasi. Bidang seperti iklan, marketing, dan jejaring sosial sering menggunakan kode QR untuk mengkodekan alamat website dan nomor telepon. Untuk membukanya bisa dilakukan dengan scan  atau pemindaian menggunakan smartphone.</span>
     </li>
      <li>
         <h5>Mobile First Design</h5>
